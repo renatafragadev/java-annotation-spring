@@ -1,3 +1,7 @@
-# java-annotation-spring
+# Java Annotations no Spring
 
-Repositórios com projetos-exemplo acerca do uso de Annotations utilizando Spring Boot. 
+Repositório com exemplos de annotations customizadas.
+
+## Algumas orientações: 
+- No pacote `infrastructure` dos projetos você encontra: configurações de internacionalização de mensagens e tratamento de erros.
+- No pacote `test` dos projetos você encontra testes unitários na camada de Controller. 
